@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/luowave-logo.png" alt="Luowave" width="260">
+<img src="https://raw.githubusercontent.com/SoftwareTeamLW/.github/main/profile/assets/luowave-logo-uppercase.png" alt="LUOWAVE" width="260">
 
-# Luowave
+# LUOWAVE
 
 ### Software Defined Radio & Counter-UAS Solutions
 
@@ -14,9 +14,9 @@ Advanced SDR platforms, intelligent radio systems, drivers, and developer resour
 
 ---
 
-## About Luowave
+## About LUOWAVE
 
-Luowave develops software-defined radio platforms and supporting technologies for wireless communications, spectrum monitoring, research, education, and intelligent RF applications.
+LUOWAVE develops software-defined radio platforms and supporting technologies for wireless communications, spectrum monitoring, research, education, and intelligent RF applications.
 
 Our public repositories provide a structured home for product documentation, platform software, shared drivers, integration examples, and future open-source releases.
 
@@ -28,7 +28,7 @@ Our public repositories provide a structured home for product documentation, pla
 ### General-Purpose SDR Platforms
 
 <div align="center">
-<img src="./assets/sdr-products.png" alt="Luowave SDR Products" width="720">
+<img src="./assets/sdr-products.png" alt="LUOWAVE SDR Products" width="720">
 </div>
 
 - [**LW320**](https://github.com/SoftwareTeamLW/lw-320) — 2T2R coherent SDR platform for wireless communications, radar, satellite communications, MIMO, and direction-finding applications.
@@ -45,7 +45,7 @@ Our public repositories provide a structured home for product documentation, pla
 
 ## Developer Resources
 
-- [**Luowave Driver**](https://github.com/SoftwareTeamLW/lw-driver) — Shared host drivers and APIs for Luowave SDR platforms.
+- [**LUOWAVE Driver**](https://github.com/SoftwareTeamLW/lw-driver) — Shared host drivers and APIs for LUOWAVE SDR platforms.
 - [**Product Documentation**](https://github.com/SoftwareTeamLW/product-docs) — Product manuals, data sheets, application notes, compatibility information, and release documentation.
 
 ## Repository Status
