@@ -28,7 +28,7 @@ Our public repositories provide a structured home for product documentation, pla
 ### General-Purpose SDR Platforms
 
 <div align="center">
-<img src="./assets/sdr-products.png" alt="LUOWAVE SDR Products" width="720">
+<img src="https://raw.githubusercontent.com/SoftwareTeamLW/.github/main/profile/assets/sdr-products-uppercase.png" alt="LUOWAVE SDR Products" width="720">
 </div>
 
 - [**LW320**](https://github.com/SoftwareTeamLW/lw-320) — 2T2R coherent SDR platform for wireless communications, radar, satellite communications, MIMO, and direction-finding applications.
